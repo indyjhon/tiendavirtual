@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script data-ad-client="ca-pub-1547291314439953" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="e07af5c28724b78c02d107a1-text/javascript"></script>
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="none" />
@@ -1060,6 +1060,6 @@ var base_url = 'https://nexus.vertiens.com/'; var thousands_separator=','; var l
 var infolinks_pid = 3278045;
 var infolinks_wsid = 0;
 </script>
-<script type="e07af5c28724b78c02d107a1-text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="e07af5c28724b78c02d107a1-|49" defer=""></script></body>
 </html>
